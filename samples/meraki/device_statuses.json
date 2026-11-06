@@ -1,0 +1,42 @@
+[
+  {
+    "serial": "Q2AA-0001-0001",
+    "status": "online"
+  },
+  {
+    "serial": "Q2BB-0001-0002",
+    "status": "online"
+  },
+  {
+    "serial": "Q2BB-0001-0003",
+    "status": "alerting"
+  },
+  {
+    "serial": "Q2CC-0001-0004",
+    "status": "online"
+  },
+  {
+    "serial": "Q2AA-0002-0001",
+    "status": "online"
+  },
+  {
+    "serial": "Q2BB-0002-0002",
+    "status": "online"
+  },
+  {
+    "serial": "Q2CC-0002-0003",
+    "status": "online"
+  },
+  {
+    "serial": "Q2AA-0003-0001",
+    "status": "offline"
+  },
+  {
+    "serial": "Q2BB-0003-0002",
+    "status": "online"
+  },
+  {
+    "serial": "Q2CC-0003-0003",
+    "status": "offline"
+  }
+]

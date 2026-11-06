@@ -1,0 +1,17 @@
+[
+  {
+    "id": "N_100",
+    "organizationId": "500001",
+    "name": "HQ-Philadelphia"
+  },
+  {
+    "id": "N_200",
+    "organizationId": "500001",
+    "name": "Branch-Allentown"
+  },
+  {
+    "id": "N_300",
+    "organizationId": "500001",
+    "name": "Clinic-Newark"
+  }
+]

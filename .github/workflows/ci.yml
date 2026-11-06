@@ -44,7 +44,7 @@ jobs:
         run: netauto compliance samples/configs/*.cfg -o compliance-report.md
       - name: Publish reports to the run summary
         run: cat health-report.md compliance-report.md >> "$GITHUB_STEP_SUMMARY"
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         with:
           name: network-reports
           path: "*-report.md"
